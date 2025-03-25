@@ -26,20 +26,4 @@
 - **Admin:** Access the admin dashboard to manage users and data.
 
 
-## Screenshots 📷
-
-### Home Page
-![Homepage](/frontend/public/bricole.png)
-
-### Become a Pro Page
-![BecomePro](/frontend/public/pro.png)
-
-### Login Page
-![User Dashboard](frontend/public/login.png)
-
-### Tasks Page
-![Tasks Page](frontend/public/tasks.png)
-
-### Admin Dashboard
-![Admin Dashboard](frontend/public/dash.png)
 
